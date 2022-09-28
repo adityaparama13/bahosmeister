@@ -1,5 +1,5 @@
-# bahosmeister
-don't open this if you don't want to because i wouldn't want to open it myself
+# androidmosquemaplocator
+surabaya mosque map locator (android app)
 
 /*
  * To change this license header, choose License Headers in Project Properties.
